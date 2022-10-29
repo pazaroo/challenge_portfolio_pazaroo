@@ -27,6 +27,7 @@ Aplikacja służy do
 ![image](https://user-images.githubusercontent.com/116814963/198838548-0be158e0-4f76-4da1-a193-c302340ddd78.png)
 
 Wg mnie funkcjonalności mogłyby być lepiej zaprezentowane. Stronę ciężko nawigować, jest nieintuicyjna, np. po przejściu do wybranego gracza, otrzymujemy jego kartę oraz mecze, w których brał udział i szczegółowe raporty dla poszczególnych meczy, lecz nagłówki nie są wyróżnione pod głównym nagłówkiem, jakim jest imię i nazwisko gracza.
+
 ![image](https://user-images.githubusercontent.com/116814963/198841454-8ddd2f7e-eec9-4499-b5e9-2fb2fdbf6b73.png)
 
 Minusem również jest to, że można gracza o takim samym imieniu i nazwisku dodawać wiele razy (nawet biorąc pod uwagę datę urodzenia) - w tym wypadku system mógłby pokazywać komunikat, że dodawany gracz jest już w bazie danych i czy może użytkownik właśnie jego szuka.
