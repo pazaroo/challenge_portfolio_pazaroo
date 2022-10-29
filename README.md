@@ -28,7 +28,7 @@ Aplikacja służy do
 
 1. Aplikacja pozwoliła na dodanie gracza jeszcze nie urodzonego
 
-![image](https://user-images.githubusercontent.com/116814963/198836139-a6e99552-6862-4dc7-8c57-29d0f649fd27.png)
+### ![image](https://user-images.githubusercontent.com/116814963/198836139-a6e99552-6862-4dc7-8c57-29d0f649fd27.png)
 
 2. Aplikacja pozwoliła na dodanie wagi gracza o wartości minusowej
 
