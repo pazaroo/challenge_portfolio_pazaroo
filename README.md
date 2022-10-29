@@ -64,7 +64,7 @@ Podoba mi się opcja filtrowania - choć tutaj warto by było dodać opcję "wyc
 ![image](https://user-images.githubusercontent.com/116814963/198836764-a0556e58-ce8f-4d76-ac67-7a1cbfab5bee.png)
 
 2. Aplikacja działa prawidłowo, nie pozwalając na wprowadzenie liczby zdobytych goli mniejszych od zera
-![image](https://user-images.githubusercontent.com/116814963/198837765-8e700b78-223a-4514-9173-53b942cdd6c0.png)
+![image](https://user-images.githubusercontent.com/116814963/198841931-d1f41ad1-8475-47e8-a488-690768330954.png)
 
 3. Aplikacja działa z dobrymi wynikami na poziomie ładowania widoku eydcji gracza
  ![image](https://user-images.githubusercontent.com/116814963/198840860-0d6702f7-5eb8-4a16-bd17-39bc9a610383.png)
