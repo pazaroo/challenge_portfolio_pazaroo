@@ -59,7 +59,19 @@ Aplikacja służy do
 2. Aplikacja działa prawidłowo, nie pozwalając na wprowadzenie liczby zdobytych goli mniejszych od zera
 ![image](https://user-images.githubusercontent.com/116814963/198837765-8e700b78-223a-4514-9173-53b942cdd6c0.png)
 
+3. Aplikacja działa z dobrymi wynikami na poziomie ładowania widoku eydcji gracza
+ ![image](https://user-images.githubusercontent.com/116814963/198840860-0d6702f7-5eb8-4a16-bd17-39bc9a610383.png)
+
+
 ### Design
 
 1. Aplikacja po przejściu na widok mobilny i przejsciu do sekcji gracze pokazuje ich w formie listy, a nie kart, jak w przypadku wersji webowej, ale poszczególni gracze zlewają się ze sobą wizualnie ze względu na brak przerwy/grubszej linii lub innego elementu wizualnego
 ![image](https://user-images.githubusercontent.com/116814963/198839023-40d43581-5642-4b3d-b5e4-0e6fd90f44d8.png)
+
+2. Na widoku edycji raportu meczowego, szerokość strony się zwiększa względem widoku w reszcie aplikacji
+
+Widok w edycji raportu
+![image](https://user-images.githubusercontent.com/116814963/198841050-986d7468-db95-44ed-8517-5ad9e61d29ca.png)
+
+Widok np 
+![image](https://user-images.githubusercontent.com/116814963/198841102-fb509f37-8c6c-4798-98b3-5b868789f8d7.png)
