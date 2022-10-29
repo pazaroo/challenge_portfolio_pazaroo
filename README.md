@@ -26,6 +26,12 @@ Aplikacja służy do
 * komunikat o niezapisanym meczu na stronie głównej
 ![image](https://user-images.githubusercontent.com/116814963/198838548-0be158e0-4f76-4da1-a193-c302340ddd78.png)
 
+Wg mnie funkcjonalności mogłyby być lepiej zaprezentowane. Stronę ciężko nawigować, jest nieintuicyjna, np. po przejściu do wybranego gracza, otrzymujemy jego kartę oraz mecze, w których brał udział i szczegółowe raporty dla poszczególnych meczy, lecz nagłówki nie są wyróżnione pod głównym nagłówkiem, jakim jest imię i nazwisko gracza.
+![image](https://user-images.githubusercontent.com/116814963/198841454-8ddd2f7e-eec9-4499-b5e9-2fb2fdbf6b73.png)
+
+Minusem również jest to, że można gracza o takim samym imieniu i nazwisku dodawać wiele razy (nawet biorąc pod uwagę datę urodzenia) - w tym wypadku system mógłby pokazywać komunikat, że dodawany gracz jest już w bazie danych i czy może użytkownik właśnie jego szuka.
+
+Podoba mi się opcja filtrowania - choć tutaj warto by było dodać opcję "wyczyść wszystkie filtry" i "zaznacz wszystkie filtry", np. gdy chcemy zaznaczyć tylko jeden, a następnie np. zwiększyć liczbę pokazywanych kolumn.
 
 ### Bugs
 
@@ -62,7 +68,6 @@ Aplikacja służy do
 3. Aplikacja działa z dobrymi wynikami na poziomie ładowania widoku eydcji gracza
  ![image](https://user-images.githubusercontent.com/116814963/198840860-0d6702f7-5eb8-4a16-bd17-39bc9a610383.png)
 
-
 ### Design
 
 1. Aplikacja po przejściu na widok mobilny i przejsciu do sekcji gracze pokazuje ich w formie listy, a nie kart, jak w przypadku wersji webowej, ale poszczególni gracze zlewają się ze sobą wizualnie ze względu na brak przerwy/grubszej linii lub innego elementu wizualnego
@@ -73,5 +78,5 @@ Aplikacja służy do
 Widok w edycji raportu
 ![image](https://user-images.githubusercontent.com/116814963/198841050-986d7468-db95-44ed-8517-5ad9e61d29ca.png)
 
-Widok np 
+Widok np. edycji meczu
 ![image](https://user-images.githubusercontent.com/116814963/198841102-fb509f37-8c6c-4798-98b3-5b868789f8d7.png)
