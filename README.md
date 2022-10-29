@@ -23,6 +23,9 @@ Aplikacja służy do
 * dodawania i edycja gracza 
 * dodawanie i edycja meczu dla gracza
 * dodawanie i edycja raportu meczu dla gracza, wraz z dodaniem wydarzeń w czasie w trakcie meczu, np. dodaniem dośrodkowania, etc.
+* komunikat o niezapisanym meczu na stronie głównej
+![image](https://user-images.githubusercontent.com/116814963/198838548-0be158e0-4f76-4da1-a193-c302340ddd78.png)
+
 
 ### Bugs
 
@@ -42,6 +45,10 @@ Aplikacja służy do
 
 ![image](https://user-images.githubusercontent.com/116814963/198837881-70e90c7d-a812-421f-a56a-eb974bdc97f0.png)
 
+5. Aplikacja nie przenosi do niezapisanego/edytowanego meczu po kliknięciu w link
+
+![image](https://user-images.githubusercontent.com/116814963/198838723-3fbab763-f452-495b-b93b-474ee4ebfa67.png)
+![image](https://user-images.githubusercontent.com/116814963/198838783-18b1a7ae-5ed8-4061-bc35-6fc76ded465a.png)
 
 
 ### Validations
@@ -52,3 +59,7 @@ Aplikacja służy do
 2. Aplikacja działa prawidłowo, nie pozwalając na wprowadzenie liczby zdobytych goli mniejszych od zera
 ![image](https://user-images.githubusercontent.com/116814963/198837765-8e700b78-223a-4514-9173-53b942cdd6c0.png)
 
+### Design
+
+1. Aplikacja po przejściu na widok mobilny i przejsciu do sekcji gracze pokazuje ich w formie listy, a nie kart, jak w przypadku wersji webowej, ale poszczególni gracze zlewają się ze sobą wizualnie ze względu na brak przerwy/grubszej linii lub innego elementu wizualnego
+![image](https://user-images.githubusercontent.com/116814963/198839023-40d43581-5642-4b3d-b5e4-0e6fd90f44d8.png)
