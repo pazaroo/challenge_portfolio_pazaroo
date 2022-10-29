@@ -28,7 +28,7 @@ Aplikacja służy do
 
 1. Aplikacja pozwoliła na dodanie gracza jeszcze nie urodzonego
 
-### ![image](https://user-images.githubusercontent.com/116814963/198836139-a6e99552-6862-4dc7-8c57-29d0f649fd27.png)
+![image](https://user-images.githubusercontent.com/116814963/198836139-a6e99552-6862-4dc7-8c57-29d0f649fd27.png)
 
 2. Aplikacja pozwoliła na dodanie wagi gracza o wartości minusowej
 
@@ -36,7 +36,7 @@ Aplikacja służy do
 
 3. Aplikacja pozwoliła na dodanie wzrostu gracza o wartości minusowej
 
-![image](https://user-images.githubusercontent.com/116814963/198837828-00cdcb64-7f57-4cc6-9f89-a8f2eeb958ef.png)
+![image](https://user-images.githubusercontent.com/116814963/198838100-1df7829b-5588-4f6d-aa97-e43cd66391c8.png)
 
 4. Aplikacja pozwoliła na wpisanie numeru telefonu złożonego z liter, nie cyfr
 
