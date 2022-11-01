@@ -71,7 +71,7 @@ Podoba mi się opcja filtrowania - choć tutaj warto by było dodać opcję "wyc
 
 9. Aplikacja mimo pracy w języku polskim wyświetla niektóre sekcje wciąż w języku angielskim 
 
-![image](https://user-images.githubusercontent.com/116814963/199274063-c6781f18-6b91-4780-8ef4-3a8481387224.png)
+![image](https://user-images.githubusercontent.com/116814963/199276245-27415068-e8f9-4e6c-9ed9-8f8c9056c25d.png)
 
 10. Pole w filtrach w obszarze wiek pozwala wpisać liczbę minusową, a także wprowadzić znaki literowe. Sugestia: wiek tylko w pełnych liczbach
 
