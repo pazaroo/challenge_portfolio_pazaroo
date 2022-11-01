@@ -69,7 +69,7 @@ Podoba mi się opcja filtrowania - choć tutaj warto by było dodać opcję "wyc
 
 ![image](https://user-images.githubusercontent.com/116814963/199272963-493f0da5-ca18-4b86-8ca4-f650c2547491.png)
 
-9. Aplikacja mimo pracy w języku polskim wyświetla niektóre sekcje wciąż w języku angielskim
+9. Aplikacja mimo pracy w języku polskim wyświetla niektóre sekcje wciąż w języku angielskim 
 
 ![image](https://user-images.githubusercontent.com/116814963/199274063-c6781f18-6b91-4780-8ef4-3a8481387224.png)
 
