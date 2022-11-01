@@ -35,19 +35,19 @@ Podoba mi się opcja filtrowania - choć tutaj warto by było dodać opcję "wyc
 
 1. Aplikacja pozwoliła na dodanie gracza jeszcze nie urodzonego
 
-![image](https://user-images.githubusercontent.com/116814963/198836139-a6e99552-6862-4dc7-8c57-29d0f649fd27.png)
+https://drive.google.com/file/d/1hMidNPrD6b5Pqkn16rouKuyVOgSx5dIo/view?usp=share_link
 
 2. Aplikacja pozwoliła na dodanie wagi gracza o wartości minusowej
 
-![image](https://user-images.githubusercontent.com/116814963/198837077-352e6edd-48c3-4d38-b051-909a2557a51d.png)
+https://drive.google.com/file/d/12XS8tkpyTPP3qWqb2Yv4jUB5osM_3gBB/view?usp=share_link
 
 3. Aplikacja pozwoliła na dodanie wzrostu gracza o wartości minusowej
 
-![image](https://user-images.githubusercontent.com/116814963/198838100-1df7829b-5588-4f6d-aa97-e43cd66391c8.png)
+https://drive.google.com/file/d/1I_wOoV42G8Mvy8ajQYxtqOv3Go01SgZB/view?usp=share_link
 
 4. Aplikacja pozwoliła na wpisanie numeru telefonu złożonego z liter, nie cyfr
 
-![image](https://user-images.githubusercontent.com/116814963/198837881-70e90c7d-a812-421f-a56a-eb974bdc97f0.png)
+https://drive.google.com/file/d/11WI5LQn1qw9RYSXVUCcAl2Q_Qb9ksuVe/view?usp=share_link
 
 5. Aplikacja nie przenosi do niezapisanego/edytowanego meczu po kliknięciu w link
 
