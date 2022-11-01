@@ -119,6 +119,9 @@ Podoba mi się opcja filtrowania - choć tutaj warto by było dodać opcję "wyc
 
 ![image](https://user-images.githubusercontent.com/116814963/199286130-72ab7888-7202-4633-910b-0b948b9ff449.png)
 
+20. Jaką logikę ma ta lista? Gracze nie wydają się być ułożeni zgodnie z żadną logiką (imię, nazwisko, mecze, raortu, rezenzja). Propozycja: można dodać funkcjonalność "sortuj po" do każdej z kolumn.
+
+![image](https://user-images.githubusercontent.com/116814963/199287857-cee58978-e537-4e16-9e31-3e55dac05a41.png)
 
 
 ### Validations
