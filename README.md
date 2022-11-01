@@ -163,7 +163,7 @@ Widok np. edycji meczu
 
 5. Wyalignować linie pól w sekcji filtry (w tym momencie znajdują się na różnych poziomach)
 
-![image](https://user-images.githubusercontent.com/116814963/199275704-1a5f6cf6-cf76-4188-a8c7-bd3a752e3c41.png)
+![image](https://user-images.githubusercontent.com/116814963/199289466-fb219c87-5b69-45c4-962b-19687acc61e5.png)
 
 6. Ikony rozciągnięte nieproporcjonalnie w widoku tworzenia meczu. Boisko nie jest również w dobrych proporcjach do tych, które grafika przedstawia (centralny okrąg nie jest okręgiem, a elipsą).
 
