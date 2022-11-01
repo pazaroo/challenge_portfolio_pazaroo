@@ -95,7 +95,6 @@ https://drive.google.com/file/d/1YoxjjvC14yNkNRliDHAALgQQ8T-WS0Kp/view?usp=share
 https://drive.google.com/file/d/16sox-dENeu1j5Zl-sEgU8BlIAvIh4pXv/view?usp=share_link
 
 20. Jaką logikę ma ta lista? Gracze nie wydają się być ułożeni zgodnie z żadną logiką (imię, nazwisko, mecze, raortu, rezenzja). Propozycja: można dodać funkcjonalność "sortuj po" do każdej z kolumn.
-
 https://drive.google.com/file/d/1NpU0EleqWBP4aoTPxDCBdZAGfQnATacp/view?usp=share_link
 
 ### Validations
@@ -119,10 +118,8 @@ https://drive.google.com/file/d/1BoxIY2IqkSRsy4EoqP5Q6NSGz4wNGHcd/view?usp=share
 https://drive.google.com/file/d/189qFVzrEOAXdYHYCuqeTGQyq0Ba1avAM/view?usp=share_link
 
 2. Na widoku edycji raportu meczowego, szerokość strony się zwiększa względem widoku w reszcie aplikacji
-
 Widok w edycji raportu
 https://drive.google.com/file/d/1eilmYO2IFR45Wy1xdbF13BpxW8xWurhZ/view?usp=share_link
-
 Widok np. edycji meczu
 https://drive.google.com/file/d/1fGbyRaRdIYNYvLk_xj1gDWxtNlU4KfCU/view?usp=share_link
 
