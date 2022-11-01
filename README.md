@@ -14,7 +14,7 @@ Cześć! Mam na imię Kasia. Zdecydowałam się na challenge w dareIT, bo szukam
 
 Testowanie funkcjonalne aplikacji https://scouts-test.futbolkolektyw.pl/
 
-Aplikacja służy do 
+Aplikacja służy do gromadzenia danych o zawodnikach piłki nożnej, aby móc selekcjonować zawodników.
 
 ### Funkcjonalności
 
