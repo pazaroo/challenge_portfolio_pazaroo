@@ -83,7 +83,7 @@ Podoba mi się opcja filtrowania - choć tutaj warto by było dodać opcję "wyc
 
 ![2022-11-01_16h51_05](https://user-images.githubusercontent.com/116814963/199277660-bcc2d311-60c9-4881-8d83-d92644ad0e25.gif)
 
-12. Ani sekcja filtry, ani sekcja selekcji widocznych kolumn nie zapewnia filtrowania zawodników po wiodącej nodze
+12. Ani sekcja filtry, ani sekcja selekcji widocznych kolumn nie zapewnia filtrowania zawodników po dominującej nodze
 
 ![image](https://user-images.githubusercontent.com/116814963/199278483-0d61b8d0-c769-4f96-84c3-29719eb89b5b.png)
 
