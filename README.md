@@ -34,7 +34,6 @@ Podoba mi się opcja filtrowania - choć tutaj warto by było dodać opcję "wyc
 ### Bugs
 
 1. Aplikacja pozwoliła na dodanie gracza jeszcze nie urodzonego
-
 https://drive.google.com/file/d/1hMidNPrD6b5Pqkn16rouKuyVOgSx5dIo/view?usp=share_link
 
 2. Aplikacja pozwoliła na dodanie wagi gracza o wartości minusowej
