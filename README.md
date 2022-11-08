@@ -143,4 +143,5 @@ https://drive.google.com/file/d/1lIezFZNrPYeopXx7wdigss84N6vZbyqr/view?usp=share
 
 ## Subtask 3️
 
+_Po co piszemy test case’y?_
 Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Pisanie przypadków testowych i zbieranie ich w scenariusze pozwala na usystematyzowanie pracy i uniknięcia zatracenia się w „wirze testowania” eksploracyjnego i błądzenia zespołu. Przypadki testowe gwarantują również możliwość powtarzalności testów i pracy w regresji.
