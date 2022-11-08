@@ -8,8 +8,11 @@
 
 ## Subtask 3
 
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
 Cześć!🐱‍👤
 Mam na imię Kasia. Zdecydowałam się na challenge w dareIT, ponieważ szukam dla siebie innej ścieżki zawodowej, nowych możliwości ✨. Przez ostatnie lata pracowałam w słabo płatnej branży 💵😿, w bardzo wąskiej niszy 🔐, która mocno ograniczyła dalsze perspektywy 👁‍🙈. Cieszę się, że dzięki (mam nadzieję udanemu 🙏) przebranżowaniu odkryję dużo więcej możliwości rozwoju 🚀🙀. Myślę, że pomoc w postaci kursu będzie nieoceniona 🧡🧡🧡
+</span>
 
 ## Subtask 4
 
