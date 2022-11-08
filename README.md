@@ -4,7 +4,11 @@
 
 ## Subtask 1
 
-7/10 punktów
+Kartkóweczka: 7/10 punktów
+
+## Subtask 2
+
+Stworzenie tego repozytorium, ELO! 💢💝💨💫 like a magic 🐇
 
 ## Subtask 3
 
@@ -140,6 +144,14 @@ https://drive.google.com/file/d/1qySSzH7bh9QTklBH7aX9UDPr7v5LX66U/view?usp=share
 https://drive.google.com/file/d/1lIezFZNrPYeopXx7wdigss84N6vZbyqr/view?usp=share_link
 
 # **Task 2️⃣**
+
+## Subtask 1
+
+https://drive.google.com/drive/u/1/folders/1afRuVs8CiPq7uCGREQUOaVBgGJpt1Nir
+
+## Subtask 2
+
+https://drive.google.com/drive/u/1/folders/1DzV8xUE1ynFZjwz8P7EdWWuC3lLCjKfu
 
 ## Subtask 3️
 
