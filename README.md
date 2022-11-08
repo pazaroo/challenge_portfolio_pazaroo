@@ -1,6 +1,6 @@
 # challenge_portfolio_pazaroo
 
-# **Task 1**
+# **Task 1️⃣**
 
 ## Subtask 1
 
@@ -138,3 +138,9 @@ https://drive.google.com/file/d/1qySSzH7bh9QTklBH7aX9UDPr7v5LX66U/view?usp=share
 
 7. Narzędzia w edycji tworzenia meczu nie są intuicyjne i po zawiśnięciu nad przyciskiem (na screeshocie np 3 przycisk) nie pokazują się opisy funkcji. Pytanie do UI designera: może warto dodać?
 https://drive.google.com/file/d/1lIezFZNrPYeopXx7wdigss84N6vZbyqr/view?usp=share_link
+
+# **Task 2️⃣**
+
+## Subtask 3️
+
+Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Pisanie przypadków testowych i zbieranie ich w scenariusze pozwala na usystematyzowanie pracy i uniknięcia zatracenia się w „wirze testowania” eksploracyjnego i błądzenia zespołu. Przypadki testowe gwarantują również możliwość powtarzalności testów i pracy w regresji.
