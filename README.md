@@ -158,3 +158,28 @@ https://drive.google.com/drive/u/1/folders/1DzV8xUE1ynFZjwz8P7EdWWuC3lLCjKfu
 _Po co piszemy test case’y?_
 
 Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Pisanie przypadków testowych i zbieranie ich w scenariusze pozwala na usystematyzowanie pracy i uniknięcia zatracenia się w „wirze testowania” eksploracyjnego i błądzenia zespołu. Przypadki testowe gwarantują również możliwość powtarzalności testów i pracy w regresji.
+
+# **Task 3️⃣**
+
+## Subtask 1 & Subtask 2
+
+_stworzenie formatki 📃 oraz przejście przez wcześniej utworzone przypadki testowe ✨ i zaraportowanie błędów 🐞_
+
+https://drive.google.com/drive/u/1/folders/12AQkwclIYLCbnsqnYhmLkkmO63ZsaERU
+
+## Subtask 3
+
+_raport z wykonanych testów_
+
+ ![Manual testing of Panel Skautingowy report DareIT](https://user-images.githubusercontent.com/116814963/202041783-6af763d0-c2ab-4945-81cc-a75fd6a31450.jpg)
+
+![Manual testing of Panel Skautingowy report DareIT](https://user-images.githubusercontent.com/116814963/202041808-f24e607b-bf8f-4ab7-80ec-228930334ff0.png)
+
+![Manual testing of Panel Skautingowy report DareIT (1)](https://user-images.githubusercontent.com/116814963/202041847-204bf9ae-8b27-49af-92eb-2ab2bf3219f2.png)
+
+![Manual testing of Panel Skautingowy report DareIT (2)](https://user-images.githubusercontent.com/116814963/202041865-1d761d29-d4fd-450a-b1a1-3e2a3e2e7b5e.png)
+
+![Manual testing of Panel Skautingowy report DareIT (3)](https://user-images.githubusercontent.com/116814963/202041891-2f997c35-0ab7-4bb9-bfeb-190efbd1bad4.png)
+
+![Manual testing of Panel Skautingowy report DareIT (4)](https://user-images.githubusercontent.com/116814963/202041905-22473007-d2df-4515-a5fc-4105310eaedf.png)
+
