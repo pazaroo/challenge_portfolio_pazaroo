@@ -169,7 +169,7 @@ https://drive.google.com/drive/u/1/folders/12AQkwclIYLCbnsqnYhmLkkmO63ZsaERU
 
 ## Subtask 3
 
-_raport z wykonanych testów_
+_raport z wykonanych testów_ 👉 https://docs.google.com/presentation/d/1wVLtSimthwi6erCV-5VIrOsuGQK_5rt0t_2MSGiKgXE/edit?usp=share_link
 
  ![Manual testing of Panel Skautingowy report DareIT](https://user-images.githubusercontent.com/116814963/202041783-6af763d0-c2ab-4945-81cc-a75fd6a31450.jpg)
 
