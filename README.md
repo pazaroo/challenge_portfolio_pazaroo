@@ -183,3 +183,12 @@ _raport z wykonanych testów_ 👉 https://docs.google.com/presentation/d/1wVLtS
 
 ![Manual testing of Panel Skautingowy report DareIT (4)](https://user-images.githubusercontent.com/116814963/202041905-22473007-d2df-4515-a5fc-4105310eaedf.png)
 
+# **Task 4️⃣**
+
+## Subtask 1 i 2
+
+_Utworzenie formatki oraz testowanie eksploracyjne i raportowanie błędów_
+
+## Subtask 3
+
+_1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji❔_ 
