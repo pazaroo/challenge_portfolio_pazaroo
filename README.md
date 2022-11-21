@@ -206,3 +206,12 @@ Pełen raport pod linkiem: https://drive.google.com/drive/u/0/folders/1ScqRn0PHZ
 ## Subtask 3
 
 _1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji❔_ 
+
+Aplikacja pomaga w zachowaniu zdrowia psychicznego i fizycznego. Oferuje medytacje, podcasty nt. zdrowia psychicznego, radzenia sobie ze stresem, oddechu, swiadomosci (mindfulness), zarzadzania emocjami i relacjami. Przy jej pomocy mozna wykonywac prowadzone cwiczenia oddechowe czy odsluchac relaksujacej muzyki. 
+
+_2. Kto ma być użytkownikiem końcowym aplikacji❔_
+
+Użytkownikiem końcowym jest osoba swiadoma wagi zdrowia psychicznego we wspolczesnym swiecie, szukajaca sposobu na wdrozenie nawykow na co dzien, byc moze laik, ktory jest nowy w swiecie medytacji, etc. Jest to osoba, ktora jest zdigitalizowana, szuka odpowiedzi na problemy za pomoca nowych technologii. Jest to osoba, ktora chce moc w kazdym momencie dnia zatroszczyc sie o siebie i by aplikacja byla motywatorem zmian i sposobem na podtrzymanie ich. Dzieki aplikacji dokonanie zmian jest latwiejsze.
+
+_3. Czy według Ciebie aplikacja jest user friendly❔ (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)_
+
