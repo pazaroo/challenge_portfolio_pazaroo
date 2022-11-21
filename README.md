@@ -213,5 +213,14 @@ _2. Kto ma być użytkownikiem końcowym aplikacji❔_
 
 Użytkownikiem końcowym jest osoba swiadoma wagi zdrowia psychicznego we wspolczesnym swiecie, szukajaca sposobu na wdrozenie nawykow na co dzien, byc moze laik, ktory jest nowy w swiecie medytacji, etc. Jest to osoba, ktora jest zdigitalizowana, szuka odpowiedzi na problemy za pomoca nowych technologii. Jest to osoba, ktora chce moc w kazdym momencie dnia zatroszczyc sie o siebie i by aplikacja byla motywatorem zmian i sposobem na podtrzymanie ich. Dzieki aplikacji dokonanie zmian jest latwiejsze.
 
-_3. Czy według Ciebie aplikacja jest user friendly❔ (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)_
+_3. Czy według Ciebie aplikacja jest user friendly❔ _
 
+Aplikacja jest user friendly. Ma prosta i przejrzysta nawigacje. Rozpoznanie struktury aplikacji nie zajmuje wiele czasu, przyciski sa umieszczone w dobrych miejscach. Jednym z mankamentow jest bug, ktory uniemozliwia korzystanie z natywnych przyciskow nawigacji w Android oraz nawigacja na karuzelach i miedzy tabami, ktore to nakladaja sie na siebie. Sa to rzeczy irytujace z punktu widzenia uzytkownika, ktore na pewno powinny zostac naprawione. Z potrzebnymi zmianami sama chetnie uzywalabym aplikacji.
+
+_4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność❔_
+
+Umiescilabym na zakladce strona glowna wyszukiwarke - w tym momencie trzeba pamietac, ze znajduje sie ona w zakladce "Odkrywaj". Wg mnie wazne jest tez, aby aplikacja z medytacjami i muzyka relaksacyjna miala latwo dostepna biblioteke - w tym wypadku brakuje dedykowanego miejsca. Zamiast tego, do sekcji "Ulubione praktyki" dostaniemy sie z poziomu profilu (nieintuicyjne). Polubione materialy pokazuja sie w formie jednej listy bez rozroznienia czy jest to podcast, medytacja czy innego rodzaju aktywnosc. Wprowadzilabym kategorie materialow do odsluchania w czasie pojscia spac (np. white noise, nagranie szumiacego lasu 8 h, etc.). Mysle, ze warto by bylo dodac aspekt spolecznosciowy - np. opcje polecenia danego materialu znajomemu.
+
+_5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej❔_
+
+Aplikacja natywna ze wzgledu na brak nawigacji myszka odznacza sie duza wrazliwoscia na zle ulozone przyciski, nieodpowiedni ich rozmiar (zbyt male). Trzeba brac pod uwage dostepnosc przyciskow dla kciuka. Mysle, ze ze wgledu na duza konkurencje podobnych aplikacji na rynku, decyzja potencjalnego uzytkownika o tym czy z danej aplikacji nadal korzystac czy przerzucic sie na inna jest szybka. Testowanie aplikacji natywnej bierze mocno pod uwage powiazanie z aspektem sprzetowym (zuzycie baterii, dzialanie na poszczegolnych wersjach OS, roznych rozdzielczosciach i wielkosciach ekranu, etc.)
