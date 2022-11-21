@@ -189,6 +189,20 @@ _raport z wykonanych testów_ 👉 https://docs.google.com/presentation/d/1wVLtS
 
 _Utworzenie formatki oraz testowanie eksploracyjne i raportowanie błędów_
 
+Pełen raport pod linkiem: https://drive.google.com/drive/u/0/folders/1ScqRn0PHZLClMj_OXwfF_aiC7z4lp2r2
+
+![Bug report Focusly](https://user-images.githubusercontent.com/116814963/203171727-18575706-6cf1-4ed4-a721-b2986e13ce05.png)
+
+![Bug report Focusly (1)](https://user-images.githubusercontent.com/116814963/203171759-407892bf-d953-4a0d-adab-ede369a48451.png)
+
+![Bug report Focusly (2)](https://user-images.githubusercontent.com/116814963/203171772-d0d65f85-c8c7-4b95-b8b7-6279eec403fb.png)
+
+![Bug report Focusly (3)](https://user-images.githubusercontent.com/116814963/203171808-f9d063c8-6261-49f0-b48e-b5fd7e9ab965.png)
+
+![Bug report Focusly (4)](https://user-images.githubusercontent.com/116814963/203171820-fc61597d-6645-4bdd-8cca-d3c3fd55f4ca.png)
+
+![Bug report Focusly (5)](https://user-images.githubusercontent.com/116814963/203171834-db9f2ad5-235a-46f0-9d73-cae4ec6e0a14.png)
+
 ## Subtask 3
 
 _1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji❔_ 
