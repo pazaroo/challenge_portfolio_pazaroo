@@ -189,7 +189,7 @@ _raport z wykonanych testów_ 👉 https://docs.google.com/presentation/d/1wVLtS
 
 _Utworzenie formatki oraz testowanie eksploracyjne i raportowanie błędów_
 
-Pełen raport pod linkiem: https://drive.google.com/drive/u/0/folders/1ScqRn0PHZLClMj_OXwfF_aiC7z4lp2r2
+Pełen raport pod linkiem:📃💡🔍👉 https://drive.google.com/drive/u/0/folders/1ScqRn0PHZLClMj_OXwfF_aiC7z4lp2r2 👈👌
 
 ![Bug report Focusly](https://user-images.githubusercontent.com/116814963/203171727-18575706-6cf1-4ed4-a721-b2986e13ce05.png)
 
