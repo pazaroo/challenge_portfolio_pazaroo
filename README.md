@@ -224,3 +224,16 @@ Umiescilabym na zakladce strona glowna wyszukiwarke - w tym momencie trzeba pami
 _5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej❔_
 
 Aplikacja natywna ze wzgledu na brak nawigacji myszka odznacza sie duza wrazliwoscia na zle ulozone przyciski, nieodpowiedni ich rozmiar (zbyt male). Trzeba brac pod uwage dostepnosc przyciskow dla kciuka. Mysle, ze ze wgledu na duza konkurencje podobnych aplikacji na rynku, decyzja potencjalnego uzytkownika o tym czy z danej aplikacji nadal korzystac czy przerzucic sie na inna jest szybka. Testowanie aplikacji natywnej bierze mocno pod uwage powiazanie z aspektem sprzetowym (zuzycie baterii, dzialanie na poszczegolnych wersjach OS, roznych rozdzielczosciach i wielkosciach ekranu, etc.)
+
+# **Task 4️⃣**
+
+## Subtask 1 - Krótki kurs podstaw SQL
+
+Wykorzystałam następujące linki do nauki 📚
+
+👍 https://www.w3schools.com/sql/
+👍 https://www.cognity.pl/top-50-zapytan-sql,blog,390.html
+👍 https://bulldogjob.pl/readme/dlaczego-warto-uczyc-sie-sql
+👍 https://epicdigitalguy.com/blog/2020/07/24/mysql-cheat-sheet/
+👍 https://www.kursysql.pl/sql-w-120-minut/
+
