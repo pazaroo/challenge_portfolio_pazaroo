@@ -326,3 +326,23 @@ WHERE price < 7
 
 _5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._
 
+❓❔❓❔
+
+_6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. _
+
+SELECT * FROM `customers` WHERE customer_id=2 or customer_id=4 or customer_id=6
+
+![image](https://user-images.githubusercontent.com/116814963/204666742-44271320-9724-4ced-b597-5590f9643386.png)
+
+_7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._
+
+SELECT * FROM `customers` WHERE customer_id in (1,3,5)
+
+![image](https://user-images.githubusercontent.com/116814963/204667030-99d957b8-0e56-4fac-8f51-cae85a89aafe.png)
+
+_8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”._
+
+SELECT * FROM `actors` WHERE name like 'an%'
+
+![image](https://user-images.githubusercontent.com/116814963/204667439-120b797d-4f85-4521-82f1-a9f566175a8d.png)
+
