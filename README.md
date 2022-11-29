@@ -225,7 +225,7 @@ _5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a 
 
 Aplikacja natywna ze wzgledu na brak nawigacji myszka odznacza sie duza wrazliwoscia na zle ulozone przyciski, nieodpowiedni ich rozmiar (zbyt male). Trzeba brac pod uwage dostepnosc przyciskow dla kciuka. Mysle, ze ze wgledu na duza konkurencje podobnych aplikacji na rynku, decyzja potencjalnego uzytkownika o tym czy z danej aplikacji nadal korzystac czy przerzucic sie na inna jest szybka. Testowanie aplikacji natywnej bierze mocno pod uwage powiazanie z aspektem sprzetowym (zuzycie baterii, dzialanie na poszczegolnych wersjach OS, roznych rozdzielczosciach i wielkosciach ekranu, etc.)
 
-# **Task 4️⃣**
+# **Task 4️5️⃣**
 
 ## Subtask 1 - Krótki kurs podstaw SQL
 
