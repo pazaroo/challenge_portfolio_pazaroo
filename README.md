@@ -242,4 +242,12 @@ A nauczyłam się tego:
 `select * from _table_name_`
 do wyświetlenia/wybrania wszystkich rekordów dla danej tabeli
 
-`select * from _table_name_`
+`select _column_name_ from _table_name_`
+do wybrania wszystkich rekordów z kolumny o danej nazwie dla danej tabeli
+
+`select distinct _column_name_ from _table_name_`
+do wybrania różnych rekordów w danej kolumnie w danej tabeli
+
+`select * from _table_name_ where _column_name_='nazwa'`
+do wybrania wszystkich rekordów z danej kolumny w danej tabeli
+
