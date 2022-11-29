@@ -292,3 +292,8 @@ Poza tym przećwiczyłam następujące komendy:
 - select * from * where not * between 'Basia' and 'Kasia'
 - select * as * 
 
+## Subtask 2 - Konfiguracja środowiska i wgranie bazy danych - DONE! ✔
+
+## Subtask 3 - Kilka zadań na rozgrzewkę, _czyli sprawdzenie wiedzy w praktyce!_
+
+_1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._
