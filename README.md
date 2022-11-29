@@ -317,3 +317,12 @@ where year_of_production between 1900 and 1999
 
 ![image](https://user-images.githubusercontent.com/116814963/204663587-850adaae-ce55-47af-ab88-a7ae9ef562d7.png)
 
+_4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$._
+
+SELECT title, price FROM `movies`
+WHERE price < 7
+
+![image](https://user-images.githubusercontent.com/116814963/204664469-e03c633b-aef4-4916-bf9a-6d6981217896.png)
+
+_5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._
+
