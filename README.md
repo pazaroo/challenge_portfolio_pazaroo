@@ -239,15 +239,38 @@ Wykorzystałam następujące linki do nauki 📚
 
 A nauczyłam się tego:
 
-`select * from _table_name_`
+`select * from **table_name**`
 do wyświetlenia/wybrania wszystkich rekordów dla danej tabeli
 
-`select _column_name_ from _table_name_`
+`select **column_name** from **table_name**`
 do wybrania wszystkich rekordów z kolumny o danej nazwie dla danej tabeli
 
-`select distinct _column_name_ from _table_name_`
+`select distinct **column_name** from **table_name**`
 do wybrania różnych rekordów w danej kolumnie w danej tabeli
 
-`select * from _table_name_ where _column_name_='nazwa'`
-do wybrania wszystkich rekordów z danej kolumny w danej tabeli
+`select * from **table_name** where **column_name**='nazwa'`
+do wybrania wszystkich rekordów o określonej nazwie z danej kolumny w danej tabeli
 
+`select * from **table_name** where not **column_name**='nazwa'`
+do wybrania wszystkich rekordów poza tymi o określonej nazwie z danej kolumny w danej tabeli
+
+`select * from **table_name** where **column_name**=1`
+do wybrania wszystkich rekordów danej kolumny w danej tabeli o wartości 1
+
+`select * from **table_name** where **column_name**=[1-90]`
+do wybrania wszystkich rekordów danej kolumny w danej tabeli o wartości między 1 a 90
+
+`select * from **table_name** where **column_name**='%t`
+do wybrania wszystkich rekordów danej kolumny w danej tabeli kończących się na t
+
+`select * from **table_name** where **column_name**='t%`
+do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynających się na t
+
+`select * from **table_name** where **column_name**='t%z`
+do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynających się na t i kończących się na z
+
+`select * from **table_name** where **column_name**='____`
+do wybrania wszystkich rekordów danej kolumny w danej tabeli o 4 znakach literowych
+
+`select * from **table_name** where **column_name**='gr[!a-k]%`
+do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynającyh się od gr, w których następnym znakiem nie jest żadna litera z zakresu a-k, oraz która po tym może mieć dowolną liczbę znaków (włączając w to brak kolejnych znaków)
