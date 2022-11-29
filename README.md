@@ -274,3 +274,6 @@ do wybrania wszystkich rekordów danej kolumny w danej tabeli o 4 znakach litero
 
 `select * from **table_name** where **column_name**='gr[!a-k]%`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynającyh się od gr, w których następnym znakiem nie jest żadna litera z zakresu a-k, oraz która po tym może mieć dowolną liczbę znaków (włączając w to brak kolejnych znaków)
+
+`select **column_nam1e**, **column_name2**, **column_name3** from **table_name** order by **column_name**='gr[!a-k]%`
+do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynającyh się od gr, w których następnym znakiem nie jest żadna litera z zakresu a-k, oraz która po tym może mieć dowolną liczbę znaków (włączając w to brak kolejnych znaków)
