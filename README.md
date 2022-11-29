@@ -236,6 +236,7 @@ Wykorzystałam następujące linki do nauki 📚
 👍 https://bulldogjob.pl/readme/dlaczego-warto-uczyc-sie-sql
 👍 https://epicdigitalguy.com/blog/2020/07/24/mysql-cheat-sheet/
 👍 https://www.kursysql.pl/sql-w-120-minut/
+👍 https://tomaszkenig.pl/kurs-sql-server/operatory-logiczne-w-sql-server/
 
 A nauczyłam się tego:
 
