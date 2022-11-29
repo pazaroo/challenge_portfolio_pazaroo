@@ -330,7 +330,7 @@ SELECT * FROM `actors` WHERE actor_id > 3 and actor_id < 8
 
 ![image](https://user-images.githubusercontent.com/116814963/204668905-c4c23d9a-d7ce-425f-843b-f628971ed477.png)
 
-_6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. _
+_6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny._
 
 SELECT * FROM `customers` WHERE customer_id=2 or customer_id=4 or customer_id=6
 
