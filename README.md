@@ -297,3 +297,23 @@ Poza tym przećwiczyłam następujące komendy:
 ## Subtask 3 - Kilka zadań na rozgrzewkę, _czyli sprawdzenie wiedzy w praktyce!_
 
 _1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._
+
+SELECT * FROM `actors`
+order by surname ASC
+
+![image](https://user-images.githubusercontent.com/116814963/204662690-8d25c161-41db-4220-af20-fa30ae7aa535.png)
+
+_2. Wyświetl film, który powstał w 2019 roku._
+
+SELECT * FROM `movies`
+where year_of_production=2019
+
+![image](https://user-images.githubusercontent.com/116814963/204663277-47c90621-e560-44da-a9bd-fc6277fd5566.png)
+
+_3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._
+
+SELECT * FROM `movies`
+where year_of_production between 1900 and 1999
+
+![image](https://user-images.githubusercontent.com/116814963/204663587-850adaae-ce55-47af-ab88-a7ae9ef562d7.png)
+
