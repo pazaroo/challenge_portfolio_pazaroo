@@ -239,41 +239,56 @@ Wykorzystałam następujące linki do nauki 📚
 
 A nauczyłam się tego:
 
-`select * from **table_name**`
+`select  from table_name`
 do wyświetlenia/wybrania wszystkich rekordów dla danej tabeli
 
-`select **column_name** from **table_name**`
+`select column_name from table_name`
 do wybrania wszystkich rekordów z kolumny o danej nazwie dla danej tabeli
 
-`select distinct **column_name** from **table_name**`
+`select distinct column_name from table_name`
 do wybrania różnych rekordów w danej kolumnie w danej tabeli
 
-`select * from **table_name** where **column_name**='nazwa'`
+`select  from table_name where column_name='nazwa'`
 do wybrania wszystkich rekordów o określonej nazwie z danej kolumny w danej tabeli
 
-`select * from **table_name** where not **column_name**='nazwa'`
+`select  from table_name where not column_name='nazwa'`
 do wybrania wszystkich rekordów poza tymi o określonej nazwie z danej kolumny w danej tabeli
 
-`select * from **table_name** where **column_name**=1`
+`select  from table_name where column_name=1`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli o wartości 1
 
-`select * from **table_name** where **column_name**=[1-90]`
+`select  from table_name where column_name=[1-90]`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli o wartości między 1 a 90
 
-`select * from **table_name** where **column_name**='%t`
+`select  from table_name where column_name='%t`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli kończących się na t
 
-`select * from **table_name** where **column_name**='t%`
+`select  from table_name where column_name='t%`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynających się na t
 
-`select * from **table_name** where **column_name**='t%z`
+`select  from table_name where column_name='t%z`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynających się na t i kończących się na z
 
-`select * from **table_name** where **column_name**='____`
+`select  from table_name where column_name='____`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli o 4 znakach literowych
 
-`select * from **table_name** where **column_name**='gr[!a-k]%`
+`select  from table_name where column_name='gr[!a-k]%`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynającyh się od gr, w których następnym znakiem nie jest żadna litera z zakresu a-k, oraz która po tym może mieć dowolną liczbę znaków (włączając w to brak kolejnych znaków)
 
-`select **column_nam1e**, **column_name2**, **column_name3** from **table_name** order by **column_name**='gr[!a-k]%`
+`select column_nam1e, column_name2, column_name3 from table_name order by column_name='gr[!a-k]%`
 do wybrania wszystkich rekordów danej kolumny w danej tabeli zaczynającyh się od gr, w których następnym znakiem nie jest żadna litera z zakresu a-k, oraz która po tym może mieć dowolną liczbę znaków (włączając w to brak kolejnych znaków)
+
+Poza tym przećwiczyłam następujące komendy:
+
+- insert into * values
+- is null 
+- is not null
+- update * set
+- delete from * where
+- select min()
+- select max()
+- select * from * where * in ('x', 'y', 'z')
+- select * from * where * between 1 and 9
+- select * from * where not * between 'Basia' and 'Kasia'
+- select * as * 
+
