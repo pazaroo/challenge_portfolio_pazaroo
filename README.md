@@ -239,4 +239,7 @@ Wykorzystałam następujące linki do nauki 📚
 
 A nauczyłam się tego:
 
-'select * from'
+`select * from _table_name_`
+do wyświetlenia/wybrania wszystkich rekordów dla danej tabeli
+
+`select * from _table_name_`
