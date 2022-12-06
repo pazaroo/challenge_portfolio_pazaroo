@@ -409,3 +409,43 @@ on sale.customer_id=customers.customer_id
 
 **15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**
 
+select customers
+add pseudonym char(3) where name like '??' and where surname like '%?' ?????
+
+**16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**
+
+SELECT DISTINCT movies.title FROM movies INNER JOIN sale ON sale.movie_id = movies.movie_id;
+
+![image](https://user-images.githubusercontent.com/116814963/206031772-f3736748-fd74-4418-a94d-731d1a4b66a0.png)
+
+**17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)**
+
+SELECT name FROM actors
+UNION
+SELECT name FROM customers
+order by name asc
+
+![image](https://user-images.githubusercontent.com/116814963/206032500-80c840db-d915-41ca-8967-695ab2c30f73.png)
+
+** 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie). **
+
+UPDATE movies
+set price = price + 2.5
+WHERE movies.year_of_production > 2000
+
+![image](https://user-images.githubusercontent.com/116814963/206033718-60029a86-ce44-4690-be95-0abb7a5e0a52.png)
+
+**19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**
+
+SELECT actors.name, actors.surname, movies.title
+from actors
+inner join cast
+on actors.actor_id=cast.actor_id
+inner join movies
+on cast.movie_id=movies.movie_id
+where actors.actor_id=4
+
+![image](https://user-images.githubusercontent.com/116814963/206034930-b3f7d4c4-b928-468e-9d69-a63ef3aa58a8.png)
+
+**20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
+
