@@ -367,3 +367,45 @@ SELECT * FROM `movies` WHERE price > 9 and movie_id between 2 and 8
 ![image](https://user-images.githubusercontent.com/116814963/204667828-e4ac745b-ea33-4092-b33a-aa05108fa9bb.png)
 
 💖💥🙏🐇
+
+# **Task 6️⃣**
+
+## Subtask 1 - Krótki kurs podstaw SQL - ciąg dalszy
+
+**_11. Skoryguj nazwisko Ani Muler na Muler._**
+
+update customers
+set surname = 'miler'
+where name = 'ania'
+
+![image](https://user-images.githubusercontent.com/116814963/205995451-a02cdaa6-c7e9-4f47-b9f0-d4cd4dbc8511.png)
+
+**_12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej._**
+
+select sale.customer_id, sale.movie_id, customers.email, customers.name
+from customers
+inner join sale on customers.customer_id=sale.customer_id
+where movie_id=4
+
+![image](https://user-images.githubusercontent.com/116814963/206018304-37dc44aa-7a37-4d54-afe8-2a73c386f77d.png)
+
+**13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com**
+
+update customers
+set email='pati@mail.com' where name='Patrycja'
+
+![image](https://user-images.githubusercontent.com/116814963/206019283-899a1189-d440-4205-9164-1c35080e2246.png)
+
+**14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**
+
+SELECT sale.customer_id, sale.movie_id, movies.title, customers.name, customers.surname
+from sale
+inner join movies
+on sale.movie_id=movies.movie_id
+inner join customers
+on sale.customer_id=customers.customer_id
+
+![image](https://user-images.githubusercontent.com/116814963/206021898-a8fac194-000a-4920-8f4d-4f5a2a4485b0.png)
+
+**15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**
+
