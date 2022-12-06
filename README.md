@@ -409,8 +409,12 @@ on sale.customer_id=customers.customer_id
 
 **15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**
 
-select customers
-add pseudonym char(3) where name like '??' and where surname like '%?' ?????
+alter table customers
+add pseudonym char(3)
+
+![image](https://user-images.githubusercontent.com/116814963/206040988-3d88941f-2982-40b4-bcab-ec487c890212.png)
+
+
 
 **16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**
 
